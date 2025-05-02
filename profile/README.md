@@ -1,4 +1,4 @@
-# twIN · hub
+# twIN/hub
 
 > Espacio colaborativo para el desarrollo, documentación y experimentación para **twIN**, el gemelo digital urbano de Pamplona.
 
