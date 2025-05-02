@@ -1,4 +1,4 @@
-# twIN Hub
+# twIN-hub
 
 > **twIN Hub** es un espacio colaborativo para el desarrollo, documentación y experimentación para **twIN**, el gemelo digital urbano de Pamplona.
 
