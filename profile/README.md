@@ -1,6 +1,6 @@
 # twIN/hub
 
-> Espacio colaborativo para el desarrollo, documentación y experimentación para **twIN**, el gemelo digital urbano de Pamplona.
+> Espacio colaborativo para el desarrollo, documentación y experimentación para [twIN](https://twininnovacion.com/), el gemelo digital urbano de Pamplona.
 
 Este repositorio funciona como un entorno abierto de trabajo entre desarrolladores, con el objetivo de facilitar:
 
